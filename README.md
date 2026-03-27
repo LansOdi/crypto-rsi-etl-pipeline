@@ -28,4 +28,4 @@ data from a financial API, transforms the raw JSON, and loads it into a MySQL da
 
 ## Author
 Lans Odidi — Entry level Data Analyst based in Dallas-Fort Worth, TX  
-[LinkedIn](https://www.linkedin.com/in/lansodidi)
+[LinkedIn]([https://www.linkedin.com/in/lansodidi](https://www.linkedin.com/in/lans-odidi/))
